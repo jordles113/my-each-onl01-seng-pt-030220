@@ -5,5 +5,5 @@ def my_each(array)
   yield array[index]
   index += 1 
 end 
-  # code here
-end
+end 
+
